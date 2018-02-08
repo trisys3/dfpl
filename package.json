@@ -1,0 +1,26 @@
+{
+  "name": "dfpl",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Website for the Dover Free Public Library",
+  "main": "server.js",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-static": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trisys3/dfpl.git"
+  },
+  "author": "Sean Moran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trisys3/dfpl/issues"
+  },
+  "homepage": "https://github.com/trisys3/dfpl#readme"
+}
